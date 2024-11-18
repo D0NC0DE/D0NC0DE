@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winner Olusola</h1>
 <h3 align="center">A passionate software engineer pushing and pulling my life together</h3>
 
-- 🌱 I’m currently learning **WEB3.0, IoT**
+- 🌱 **WEB 2.0, WEB3.0, IoT**
 
 - 👨‍💻 All of my projects are available at [olusolawinner.xyz](olusolawinner.xyz)
 
